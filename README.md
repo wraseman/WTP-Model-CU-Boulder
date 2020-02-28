@@ -17,10 +17,12 @@ This version of the WTP Model is **only compatible with Windows computers**. Sor
 ## Downloading the program
 ![Download ZIP](./Images/download-zip.png)
 
-To download the WTP Model, click on the ```Clone or download``` button in the top right corner of the [GitHub page](https://github.com/wraseman/WTP-Model-CU-Boulder) and then choose ```Download ZIP```.
+To download the WTP Model, click on the ```Clone or download``` button in the top right corner of [this GitHub page](https://github.com/wraseman/WTP-Model-CU-Boulder) and then choose ```Download ZIP```. The button should look like the image above.
 
 ## Running the program
-To run the WTP Model, first unzip the ```WTP-Model-CU-Boulder``` folder from the GitHub page. Next, check that "wtp_v2-2-1.exe" and "WTPModelClient.exe" are in the same directory. These files *must* be in the same directory for the application to run. Double-click ```WTPModelClient.exe``` to open the user interface.
+To run the WTP Model, first unzip the ```WTP-Model-CU-Boulder-master``` folder from the GitHub page. Next, check that "wtp_v2-2-1.exe" and "WTPModelClient.exe" are in the same directory. These files *must* be in the same directory for the application to run. Double-click ```WTPModelClient.exe``` to open the user interface.
+
+You will likely get a popup dialog that says "Windows protected your PC". Don't worry, it is okay to run this program. To get past this dialog and run the WTP Model, click ```More info``` and then ```Run anyway```. 
 
 ### Creating a shortcut
 To make it easier to run the program, you can create a shortcut to WTPModelClient.exe. To do so, right-click on "WTPModelClient.exe"
@@ -29,7 +31,7 @@ shortcut will open the user interface. This shortcut (AND ONLY THIS SHORTCUT) ca
 move convenient location, such as the Desktop.
 
 ## Getting started
-For instructions about how to use the WTP Model, please refer to the manual. To access the manual, click the ```Help``` button while running the WTP Model application or navigate unzipped folder ```WTP-Model-CU-Boulder``` and open the manual from there.
+For instructions about how to use the WTP Model, please refer to the manual. To access the manual, click the ```Help``` button while running the WTP Model application or navigate unzipped folder ```WTP-Model-CU-Boulder-master``` and open the manual from there.
 
 ## Reporting issues
 ![Reporting issues](./Images/issues-page.png)
